@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyDiet</string>
+    <string name="h1">TOFU!!</string>
+    <string name="imgCaptionText">The Meal of all Kung Fu warriors</string>
+    <string name="cpationSize">30dp</string>
+</resources>
